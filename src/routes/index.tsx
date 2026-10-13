@@ -15,7 +15,7 @@ function Home() {
   </h2>
 
   <div className="mx-auto mt-5 h-1 w-24 rounded-full bg-emerald-500"></div>
-  <p className='mx-20 text-lg text-green-200'>We are a new company. Year 2025 is our first full year of operations. On this site, we will disclose the financial statements for our investors.</p>
+  <p className='mx-20 text-lg text-green-200'>We are a new company. Year 2026 is our first full year of operations. On this site, we will disclose the financial statements for our investors.</p>
  
 </div> 
 
