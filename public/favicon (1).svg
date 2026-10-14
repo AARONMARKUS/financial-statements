@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Laptop computer">
+  <defs><linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#36a5ff"/><stop offset="1" stop-color="#0645a9"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f0f4f9"/><stop offset="1" stop-color="#9caabd"/></linearGradient></defs>
+  <rect width="64" height="64" rx="13" fill="#08244b"/>
+  <rect x="10" y="13" width="44" height="32" rx="3.5" fill="url(#metal)"/>
+  <rect x="12" y="15" width="40" height="28" rx="2" fill="#071528"/>
+  <rect x="14" y="17" width="36" height="24" fill="url(#screen)"/>
+  <path d="M14 17H50L27 41H14Z" fill="#ffffff" opacity=".12"/>
+  <circle cx="32" cy="14" r=".7" fill="#43546c"/>
+  <path d="M10 45H54L60 52Q61 54 57 55H7Q3 54 4 52Z" fill="url(#metal)"/>
+  <path d="M13 46H51L54 50H10Z" fill="#51647d"/>
+  <path d="M27 51H37L39 53H25Z" fill="#7b8ca3"/>
+</svg>
