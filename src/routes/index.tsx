@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
     <div className="min-h-screen bg-zinc-950 text-center py-10">
-  <h1 className="text-5xl font-bold tracking-tight text-white">
+  <h1 className="text-5xl font-bold tracking-tight">
     Welcome to Kissena Baked Goods
   </h1>
 
