@@ -1,3 +1,4 @@
+// biome-ignore assist/source/organizeImports: imports are intentionally ordered
 import { HeadContent, Link, Scripts, createRootRoute } from "@tanstack/react-router"
 import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
@@ -18,7 +19,7 @@ export const Route = createRootRoute({
         title: 'Kissena Baked Goods',
       },
     ],
-    links: [
+    links: [{ rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
       {
         rel: 'stylesheet',
         href: appCss,
